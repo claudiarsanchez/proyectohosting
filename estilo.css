@@ -1,0 +1,25 @@
+body {
+    background-color: bisque;
+}
+div{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(255, 0, 0);
+    display: inline-block;
+    color: yellow;
+    padding:5px 0px;
+    border: 3px solid rgba(194, 5, 5, 0.5);
+    margin: 10px 5px;
+    box-sizing: border-box;
+    font-size: 32px;
+}
+h1{
+    color:whitesmoke;
+    text-size-adjust: 36px;
+}
+
+#dos{
+    background-color: black;
+    color: white;
+    border: 3px solid black;
+}
